@@ -1,0 +1,23 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Crete Round', serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.img-form {
+    display: flex;
+    justify-content: center;
+}
+
+.formulario {
+    width: 600px;
+    background-color: #fff;
+    padding: 2em;
+    margin: auto;
+    top: 2em;
+}
